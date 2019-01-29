@@ -1,6 +1,6 @@
 {
   "name": "populations-react",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": false,
   "main": "build/lib/components/index.js",
   "types": "build/lib/components/index.d.ts",
